@@ -697,7 +697,7 @@ function GatewayPage({ showToast }) {
 
 // ─── PROFILE PAGE ─────────────────────────────────────────────────────────────
 function ProfilePage() {
-  const user = { name: "Ramesh Sharma", email: "ramesh@primeestate.in", phone: "+91 98765 43210", location: "Jaipur, Rajasthan" };
+  const user = { name: "Vansh Sharma", email: "vansh28sharma2005@gmail.com", phone: "+91 7982332659", location: "Jaipur, Rajasthan" };
   return (
     <div className="profile-wrap">
       <div style={{ position: "relative", marginBottom: "60px" }}>
