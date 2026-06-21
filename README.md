@@ -14,7 +14,7 @@ A responsive real estate platform built using React.
 - HTML & CSS
 
 ## Live Demo
-(coming soon)
+real-estate-app-gamma-nine.vercel.app
 
 ## Author
 Vansh Sharma
